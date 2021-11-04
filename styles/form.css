@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap");
+
+
+
+.button {
+    background-color: #330003; /* Gold */
+    border: none;
+    color: white;
+    margin: 20px;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+  }
+
+
+
+  .field {
+
+    display: flex;
+    flex-direction: column;
+    background-color: #330003;
+    color: rgba(255, 250, 250, 0.959);
+    font-family: 'Source Sans Pro', Sans-Serif;
+    font-size: 15px;
+    
+  }
+
+  .reservation__delete {
+      
+      background-color: #330003; /* Red */
+      border: none;
+      color: white;
+      margin: 20px;
+      padding: 9px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 10px;
+    }
+
+    .reservations {
+        color: white;
+        font-family:  'Source Sans Pro', Sans-Serif;
+        font-size: 15px;
+    }
+   
+   

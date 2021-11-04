@@ -1,0 +1,24 @@
+{
+  "reservations": [],
+  "requests": [
+    {
+      "nameofParent": "Shelby Rossi",
+      "nameofChild": "Johnny Franco Rossi",
+      "partyAttendance": "40",
+      "addressofParty": "105 Unknown",
+      "reservationLength": "5",
+      "reservationDate": "2021-11-17",
+      "id": 1
+    },
+    {
+      "nameofParent": "Al Bundy",
+      "nameofChild": "Bud Bundy",
+      "partyAttendance": "4",
+      "addressofParty": "60 Evergreen",
+      "reservationLength": "1",
+      "reservationDate": "2021-11-04",
+      "id": 2
+    }
+  ],
+  "employees": []
+}

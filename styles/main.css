@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Titan+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,700&display=swap");
+
+
+@import "form.css";
+
+/*Typography
+--------------------------------------------------------------*/
+body {
+    background-color: #803D49;
+}, 
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Damion", cursive, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Playfair Display SC', Serif;
+  letter-spacing: 2px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px #330003;
+ 
+}
+
+img {
+    
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: auto;
+    height: 300px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 20px;
+    
+    
+    
+  }
